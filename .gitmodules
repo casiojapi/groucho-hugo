@@ -1,0 +1,8 @@
+[submodule "grouchocyber/grouchocyber.github.io"]
+	path = grouchocyber/grouchocyber.github.io
+	url = https://github.com/casiojapi/grouchocyber.github.io.git
+	branch = main
+[submodule "grouchocyber/public"]
+	path = grouchocyber/public
+	url = git@github.com:casiojapi/grouchocyber.github.io.git
+	branch = main

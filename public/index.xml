@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>groucho cybercafe</title>
+    <link>https://grouchocyber.github.io/</link>
+    <description>Recent content on groucho cybercafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 20:37:03 -0300</lastBuildDate><atom:link href="https://grouchocyber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://grouchocyber.github.io/posts/test/</link>
+      <pubDate>Sat, 10 Dec 2022 20:37:03 -0300</pubDate>
+      
+      <guid>https://grouchocyber.github.io/posts/test/</guid>
+      <description>la concha de tu madre
+la concha de tu madre la concha de tu madre </description>
+    </item>
+    
+    <item>
+      <title>Init</title>
+      <link>https://grouchocyber.github.io/posts/init/</link>
+      <pubDate>Sat, 10 Dec 2022 20:26:08 -0300</pubDate>
+      
+      <guid>https://grouchocyber.github.io/posts/init/</guid>
+      <description>groucho cybercafe la idea es hacer un blog que hable sobre herramientas que puede usar cualquiera, bien explicado y didactico, para ser un “cyberpunk” en el siglo 21. Ya se que suena muy cringe la idealizacion del joven que se hace el revolucionario por usar linux, pero realmente lo que busco en este blog es llenar el espacio vacio que encuentro cuando busco un lugar centralizado de informacion, data, herramientas y referencias para entrar mas en este genero o hasta ideologia.</description>
+    </item>
+    
+  </channel>
+</rss>

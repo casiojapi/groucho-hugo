@@ -1,0 +1,4 @@
+baseURL = 'https://grouchocyber.github.io/'
+languageCode = 'en-us'
+title = 'groucho cybercafe'
+theme = 'neofeed-theme'
